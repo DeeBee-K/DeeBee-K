@@ -1,0 +1,3 @@
+- Hi, I’m @DeeBee-K, I'm a Uni student studying CompSci and DataSci
+- I’m currently doing subjects in applied mathematics, statistics, and web development
+- Pronouns: she/her
